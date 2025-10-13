@@ -40,6 +40,6 @@ I discovered cybersecurity thanks to Watch Dogs, and since then I knew I wanted 
 <a href="https://www.linkedin.com/in/braian-villega/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:braianvillegacorreo@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=braianvillegacorreo@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Braian%2C%0A%0AQuisiera%20contactarte%20por..." target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
