@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Braian Villega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<br>
+
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -32,12 +34,12 @@ I discovered cybersecurity thanks to Watch Dogs, and since then I knew I wanted 
 
 ## Contact me from...
 
-<a href= "https://www.instagram.com/tukki4u/">
+<a href= "https://www.instagram.com/tukki4u/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/braian-villega/" >
+<a href="https://www.linkedin.com/in/braian-villega/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="braianvillegacorreo@gmail.com" >
+<a href="mailto:braianvillegacorreo@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
