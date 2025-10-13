@@ -13,4 +13,31 @@ I discovered cybersecurity thanks to Watch Dogs, and since then I knew I wanted 
   - SOAR.
   - SysLog.
 - 💻 I practice daily on platforms such as LetsDefend and TryHackMe.
-- 🚀 Outside of technology, 🎮 I enjoy video games, 👫 spending time with my family or friends, 👀 and watching soccer games.
+- 🚀 Outside of technology, 🎮 I enjoy video games, 👀 watching soccer games, 👫 and spending time with my family or friends.
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src= "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+</span>
+
+<h4>  Tools In Use </h4>
+<span>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</span>
+
+## Contact me from...
+
+<a href= "https://www.instagram.com/tukki4u/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/braian-villega/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="braianvillegacorreo@gmail.com" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
