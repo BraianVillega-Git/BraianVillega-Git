@@ -6,7 +6,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I discovered my passion for cybersecurity thanks to Watch Dogs, a game that sparked my curiosity to understand how systems, networks, and digital defense work. I studied Computer Engineering for three years, where I acquired a solid foundation in programming, networking, logic, and computer architecture.
+I discovered my passion for cybersecurity thanks to Watch Dogs, a game that sparked my curiosity to understand how systems, networks, and digital defense work. I studied Computer Engineering, where I acquired a solid foundation in programming, networking, logic, and computer architecture.
 I decided to focus my career path on cybersecurity to apply this knowledge in a more practical environment geared toward information protection. I am currently preparing for the CompTIA Security+ (SY0-701) certification, strengthening my skills in risk management, network security, access control, cryptography, threats, and vulnerabilities.
 My goal is to become a cybersecurity expert, capable of designing and implementing effective defense strategies, performing technical analyses, and contributing to the creation of more secure digital environments.
 
