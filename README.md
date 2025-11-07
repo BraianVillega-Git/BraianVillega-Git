@@ -6,7 +6,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I discovered cybersecurity thanks to Watch Dogs, and since then I knew I wanted to pursue this career. I studied computer engineering for three years, where I learned about programming, networks, logic, and computer architecture. I put my studies on hold to apply that knowledge in a practical setting and focus on security. I am currently preparing to become a SOC, strengthening my skills in alert analysis, defensive tools, and technical labs, with the goal of advancing to pentesting.
+I discovered my passion for cybersecurity thanks to Watch Dogs, a game that sparked my curiosity to understand how systems, networks, and digital defense work. I studied Computer Engineering for three years, where I acquired a solid foundation in programming, networking, logic, and computer architecture.
+I decided to focus my career path on cybersecurity to apply this knowledge in a more practical environment geared toward information protection. I am currently preparing for the CompTIA Security+ (SY0-701) certification, strengthening my skills in risk management, network security, access control, cryptography, threats, and vulnerabilities.
+My goal is to become a cybersecurity expert, capable of designing and implementing effective defense strategies, performing technical analyses, and contributing to the creation of more secure digital environments.
 
 - 🎓 I’m currently learning ...
   - Splunk.
