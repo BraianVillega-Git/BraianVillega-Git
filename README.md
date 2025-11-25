@@ -6,14 +6,18 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I discovered my passion for cybersecurity thanks to Watch Dogs, a game that sparked my curiosity to understand how systems, networks, and digital defense work. I studied Computer Engineering, where I acquired a solid foundation in programming, networking, logic, and computer architecture.
-I decided to focus my career path on cybersecurity to apply this knowledge in a more practical environment geared toward information protection. I am currently preparing for the CompTIA Security+ (SY0-701) certification, strengthening my skills in risk management, network security, access control, cryptography, threats, and vulnerabilities.
-My goal is to become a cybersecurity expert, capable of designing and implementing effective defense strategies, performing technical analyses, and contributing to the creation of more secure digital environments.
+I always liked video games and technology, but games like Watch Dogs, Deus Ex, and even hacker-style CTFs were what really sparked my curiosity to understand what goes on behind a network, a system, or a vulnerability. That “how did they do that?” led me to delve deeper and deeper into the world of cybersecurity.
+
+Studying computer science gave me the foundation: programming, networking, logic, operating systems. But it was when I got into pentesting that I really started to enjoy myself. Today, I spend much of my free time doing labs, solving machines on TryHackMe (Jr Pentester route), learning basic exploitation, and understanding how attackers think. I also follow defensive content as a TryHackMe SOC Analyst, because I like to have a complete view of the game—both attacking and defending.
+
+Now I'm preparing for the INE eJPT certification and delving deeper into AD, Azure, and server administration, because I know that in any real environment you're going to encounter these services, and I want to be able to navigate them comfortably.
+
+What I enjoy most about this path is precisely that: I learn, experiment, break things in safe environments, fix them, and keep moving forward. My goal is to pursue pentesting professionally, but without losing the defensive perspective that helps me understand how to truly improve security.
 
 - 🎓 I’m currently learning ...
-  - Splunk.
-  - SOAR.
-  - SysLog.
+  - Metasploit.
+  - Burp Suite.
+  - Hydra.
 - 💻 I practice daily on platforms such as LetsDefend and TryHackMe.
 - 🚀 Outside of technology, 🎮 I enjoy video games, 👀 watching soccer games, 👫 and spending time with my family or friends.
 
