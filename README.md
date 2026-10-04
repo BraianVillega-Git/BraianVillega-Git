@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Braian Villega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Braian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br><br>
 
@@ -6,22 +6,21 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I always liked video games and technology, but games like Watch Dogs, Deus Ex, and even hacker-style CTFs were what really sparked my curiosity to understand what goes on behind a network, a system, or a vulnerability. That “how did they do that?” led me to delve deeper and deeper into the world of cybersecurity.
+🛡️ Mi camino hacia la ciberseguridad
 
-Studying computer science gave me the foundation: programming, networking, logic, operating systems. But it was when I got into pentesting that I really started to enjoy myself. Today, I spend much of my free time doing labs, solving machines on TryHackMe (Jr Pentester route), learning basic exploitation, and understanding how attackers think. I also follow defensive content as a TryHackMe SOC Analyst, because I like to have a complete view of the game—both attacking and defending.
+Vengo de una familia humilde. Mi papá es albañil y trabaja como contratista independiente, y mi mamá es empleada doméstica. Nunca tuvimos una situación económica estable, pero en mi casa siempre se hizo lo posible para que a mí no me faltara lo mejor. Eso lo fui valorando con los años, y hoy es una de las razones por las que sigo adelante.
 
-Now I'm preparing for the INE eJPT certification and delving deeper into AD, Azure, and server administration, because I know that in any real environment you're going to encounter these services, and I want to be able to navigate them comfortably.
+Cuando terminé la secundaria me puse a estudiar, pero fallé al principio. No sabía cómo empezar, y tampoco tenía la economía para dedicarme solamente a eso. Tuve que salir a trabajar. Durante casi dos años pasé por distintos trabajos: mesero, agente de viaje y albañil. En ese tiempo aprendí a tratar con la gente, a trabajar bajo presión y a darle valor a cada peso que ganaba. También entendí qué era lo que no quería para mi futuro.
 
-What I enjoy most about this path is precisely that: I learn, experiment, break things in safe environments, fix them, and keep moving forward. My goal is to pursue pentesting professionally, but without losing the defensive perspective that helps me understand how to truly improve security.
+Cuando apareció la oportunidad, entré a Ingeniería Informática. El primer año lo cumplí de manera satisfactoria, y ahí sentí por primera vez que este camino era posible para mí.
 
-- 🎓 I’m currently learning ...
-  - Metasploit.
-  - Burp Suite.
-  - Hydra.
-- 💻 I practice daily on platforms such as LetsDefend and TryHackMe.
-- 🚀 Outside of technology, 🎮 I enjoy video games, 👀 watching soccer games, 👫 and spending time with my family or friends.
+A fines de 2024 decidí enfocarme en la ciberseguridad. Empecé con TryHackMe, como se recomienda. Me costó mucho avanzar, porque tenía que sostener la carrera al mismo tiempo, y me llevó meses agarrarle el ritmo. Hubo momentos de duda y de cansancio, pero no abandoné.
 
-<h4> Languages </h4>
+Hoy trabajo en el Ministerio de Capital Humano, donde estoy desarrollando mi perfil profesional. Sé que todavía me falta mucho por aprender, pero conozco de dónde vengo y lo que me costó llegar hasta acá.
+
+Voy a cumplir mi meta. 🚀
+
+<h4> 📚 Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -29,12 +28,25 @@ What I enjoy most about this path is precisely that: I learn, experiment, break 
   <img src= "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 </span>
 
-<h4>  Tools In Use </h4>
+<h4> 🔒 Plataformas de seguridad</h4>
 <span>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)">
+  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white">
 </span>
+
+<h4> 🔒 Herramientas de seguridad </h4>
+<spawn>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+</spawn>
+
+<h4> 💻 Virtualizacion </h4>
+<spawn>
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
+</spawn>
 
 ## Contact me from...
 
