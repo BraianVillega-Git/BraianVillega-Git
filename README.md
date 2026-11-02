@@ -59,9 +59,6 @@ Voy a cumplir mi meta. 🚀
 
 ## Contact me from...
 
-<a href= "https://www.instagram.com/tukki4u/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/braian-villega/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
